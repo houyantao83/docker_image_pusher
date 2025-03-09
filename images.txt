@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 ####
 #--platform=linux/arm64 nginx:1.26.3-perl
-nginx:1.26.3-perl
+zengxs/gitlab:14.10.2-ce.0
